@@ -1,5 +1,5 @@
 #  Open the text file in read mode
-with open("day3_input.txt", "r") as file:
+with open(r"D:\Advent of Code\2015\day3_input.txt", "r") as file:
     # Read the contents of the file into a string
     directions = file.read()
 
